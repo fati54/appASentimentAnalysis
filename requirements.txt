@@ -1,3 +1,4 @@
 streamlit==1.25.0
 flair==0.7
 torch==1.9.0
+
